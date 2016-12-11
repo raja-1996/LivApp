@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "555553815797",
+    "firebase_url": "https://livapp-245b9.firebaseio.com",
+    "project_id": "livapp-245b9",
+    "storage_bucket": "livapp-245b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555553815797:android:42f8803f4294c125",
+        "android_client_info": {
+          "package_name": "com.example.raja.livapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555553815797-430ai07ov4kpsb4262famch1fnji276n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raja.livapp",
+            "certificate_hash": "9863D15A6D8D5E7410FF239EE20A3CDBA4276C24"
+          }
+        },
+        {
+          "client_id": "555553815797-8a7bd64epb85o3e5natbjrhhl7eil2ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlfD38REXZusPyE0YvEb1YIsVkSVqIqkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555553815797-8a7bd64epb85o3e5natbjrhhl7eil2ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
